@@ -14,5 +14,5 @@ This report is to inform about the program
 
 
 |thomas|allan|
-|---:| ---:|
+|---:|| ---:|
 |Thomas ||Allan|
