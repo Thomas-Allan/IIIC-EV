@@ -13,5 +13,6 @@ This report is to inform about the program
 
 
 
-|- thomas -| allan 
-|- thomas -| allan
+|thomas|allan|
+|---:| ---:|
+|Thomas ||Allan|
