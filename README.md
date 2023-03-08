@@ -15,4 +15,4 @@ This report is to inform about the program
 
 |thomas|allan|thomaasallan|
 |---:| ---:|---:|
-|Thomas|Allan|thomasallam|
+|Thomas|Allan|thomasallan|
