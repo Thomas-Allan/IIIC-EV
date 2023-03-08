@@ -1,6 +1,6 @@
 ## *IIIC* - *E V*  
-* Going to create a **electric car** *
-*Group Members :*
+* Going to create a **electric car** 
+* *Group Members :*
 * *Thomas Allan*
 *
 This report is to inform about the program 
